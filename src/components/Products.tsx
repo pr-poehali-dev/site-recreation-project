@@ -43,38 +43,6 @@ const Products = () => {
       ],
       contact: "Telegram @zeswv",
     },
-    {
-      id: 3,
-      title: "Лаунчер Arizona Mobile",
-      description:
-        "Стильное мобильное приложение-лаунчер с темным дизайном и современным интерфейсом для Arizona RP",
-      image:
-        "https://cdn.poehali.dev/files/88a0d3d7-9425-4c74-a634-481777ab3c5a.png",
-      price: "50₽",
-      features: [
-        "Мобильная версия",
-        "Темный дизайн",
-        "Современный интерфейс",
-        "Быстрая техническая поддержка",
-      ],
-      contact: "Telegram @zeswv",
-    },
-    {
-      id: 4,
-      title: "Лаунчер Arizona PC",
-      description:
-        "Премиальный десктопный лаунчер с киберпанк дизайном и стильным персонажем для Arizona RP",
-      image:
-        "https://cdn.poehali.dev/files/cd9898ce-b00d-4ae4-968b-ce9e003ae21c.png",
-      price: "50₽",
-      features: [
-        "Киберпанк дизайн",
-        "Стильный персонаж",
-        "Премиум интерфейс",
-        "Быстрая техническая поддержка",
-      ],
-      contact: "Telegram @zeswv",
-    },
   ];
 
   return (
