@@ -59,6 +59,22 @@ const Products = () => {
       ],
       contact: "Telegram @zeswv",
     },
+    {
+      id: 4,
+      title: "Лаунчер Arizona PC",
+      description:
+        "Премиальный десктопный лаунчер с киберпанк дизайном и стильным персонажем для Arizona RP",
+      image:
+        "https://cdn.poehali.dev/files/cd9898ce-b00d-4ae4-968b-ce9e003ae21c.png",
+      price: "50₽",
+      features: [
+        "Киберпанк дизайн",
+        "Стильный персонаж",
+        "Премиум интерфейс",
+        "Быстрая техническая поддержка",
+      ],
+      contact: "Telegram @zeswv",
+    },
   ];
 
   return (
