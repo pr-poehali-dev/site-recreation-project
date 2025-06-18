@@ -28,7 +28,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <div className="font-semibold text-white">Telegram</div>
-                    <div className="text-gray-300">@gameserver_support</div>
+                    <div className="text-gray-300">@alexandergamesru</div>
                   </div>
                 </div>
 
@@ -38,7 +38,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <div className="font-semibold text-white">Email</div>
-                    <div className="text-gray-300">support@gameserver.ru</div>
+                    <div className="text-gray-300">arizonamartix@gmail.com</div>
                   </div>
                 </div>
 
@@ -47,8 +47,8 @@ const Contact = () => {
                     <Icon name="Clock" className="w-5 h-5 text-white" />
                   </div>
                   <div>
-                    <div className="font-semibold text-white">Время работы</div>
-                    <div className="text-gray-300">24/7 - всегда на связи</div>
+                    <div className="font-semibold text-white">Режим работы</div>
+                    <div className="text-gray-300">24/7</div>
                   </div>
                 </div>
               </CardContent>
