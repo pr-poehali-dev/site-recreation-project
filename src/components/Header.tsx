@@ -7,9 +7,13 @@ const Header = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center">
-            <Icon name="Gamepad2" className="h-8 w-8 text-white" />
+            <img
+              src="https://cdn.poehali.dev/files/e5ed95ff-3c07-4e9b-bad9-0d1a588eb9c1.jpg"
+              alt="Alexander Games Logo"
+              className="h-8 w-8 object-contain"
+            />
             <span className="ml-2 text-xl font-bold text-white">
-              GameServer Pro
+              Alexander Games
             </span>
           </div>
 
