@@ -25,6 +25,23 @@ const Products = () => {
         "Техподдержка",
       ],
       badge: "Хит продаж",
+      contact: "Telegram @zeswv",
+    },
+    {
+      id: 2,
+      title: "Персонаж Alexander Games",
+      description:
+        "Эксклюзивный 3D персонаж с детализированной анимацией и уникальным дизайном для Arizona Games",
+      image:
+        "https://cdn.poehali.dev/files/03dd212a-8954-429c-94ab-f85c852ec6ce.png",
+      price: "50₽",
+      features: [
+        "Высокая детализация",
+        "Уникальная анимация",
+        "Совместимость Arizona Games",
+        "Быстрая установка",
+      ],
+      contact: "Telegram @zeswv",
     },
   ];
 
